@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #86db9f;
+  color: #ffe9bb;
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ffbd33 ;
+  background: #ffe9bb ;
   color: #fff;
 }
 
@@ -127,7 +127,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #000000;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
